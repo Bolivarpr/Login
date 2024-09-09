@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(3, 29, 34);
+    width: 100%;
+    height: 100%;
+}
+
+form{
+    width: 360px;
+    margin: 320px auto;
+    text-align: center;
+    border: 1px solid rgb(92, 91, 91);
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form h3 {
+    color: aqua;
+}
+
+form p {
+    color: rgb(150, 62, 3);
+}
+
+
+input {
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    background: rgb(65, 61, 61);
+    color: aqua;
+}
+
